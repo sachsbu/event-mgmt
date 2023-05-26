@@ -4,6 +4,6 @@ import lombok.Data;
 
 @Data
 public class IdDto {
-    private int id;
+    private String id;
 
 }
